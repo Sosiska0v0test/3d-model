@@ -1,0 +1,44 @@
+[
+    {
+      "title": "General view",
+      "description": "<p>Looking Down from Above</p>",
+      "position": {
+        "x": 8,
+        "y": 8,
+        "z": -5
+      },
+      "lookAt": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "title": "Computer",
+           "position": {
+        "x": -2,
+        "y": 2,
+        "z": -1
+      },
+      "lookAt": {
+        "x":-50,
+        "y": 1,
+        "z": 0
+      }
+    },
+    {
+      "title": "Coffee table",
+"position": {
+        "x": 1.5,
+        "y": 1,
+        "z": -2.7
+      },
+      "lookAt": {
+        "x": 1.1,
+        "y": 1,
+        "z": 0
+      }
+    }
+  ]
+
+   
